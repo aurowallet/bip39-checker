@@ -1,5 +1,7 @@
 # bip39-checker
 
+https://aurowallet.github.io/bip39-checker
+
 ## Build Setup
 
 ```bash
