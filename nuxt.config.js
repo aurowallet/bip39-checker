@@ -42,7 +42,7 @@ export default {
   modules: [
   ],
   router: {
-    base: 'bip39-checker'
+    base: '/bip39-checker'
   },
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
