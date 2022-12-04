@@ -20,7 +20,7 @@
       </div>
     </div>
     <div class="powerby">
-      Powered by Auro Wallet
+      Powered by <a href="https://www.aurowallet.com" target="_blank">Auro Wallet</a>
     </div>
   </div>
 </template>
@@ -37,9 +37,17 @@ body{
   left: 0;
   right: 0;
   bottom: 12px;
-  font-size: 18px;
+  font-size: 16px;
   text-align: center;
   font-weight: normal;
+  color: gray;
+  a {
+    text-decoration: none;
+    color: gray;
+    &:hover {
+      color: #594AF1;
+    }
+  }
 }
 .bi39{
   font: 14px 'Helvetica Neue', Helvetica, Arial, sans-serif;
